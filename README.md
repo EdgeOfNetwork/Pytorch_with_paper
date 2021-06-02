@@ -4,7 +4,7 @@
 
 
 
->1. Unet   
+>1. U-Net: Convolutional Networks for Biomedical Image Segmentation 
   
 https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw  
 
