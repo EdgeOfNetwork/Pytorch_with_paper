@@ -13,3 +13,7 @@ https://www.youtube.com/channel/UCpujNlw4SUpgTU5rrDXH0Jw
 >3. RNN : 
   
 https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+
+>4. USAD :  
+
+  
